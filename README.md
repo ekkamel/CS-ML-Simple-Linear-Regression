@@ -1,1 +1,1 @@
-# CS-ML-Simple-Linear-Regression
+# DS-ML-Simple-Linear-Regression
